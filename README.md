@@ -27,8 +27,8 @@ The app needs to have users (signup, login, and logout functionality) and full C
 Once more, let's use our friend `IronLauncher` and create a new app:
 
 ```bash
-$ ironlauncher rooms-app
-$ cd rooms-app
+$ ironlauncher new-app
+$ cd new-app
 $ npm run dev
 ```
 
